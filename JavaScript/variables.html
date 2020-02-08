@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>My First Javascript Programming</title>
+</head>
+<body>
+<script type="text/javascript">
+
+var msg1 = 'This is a globally stored variable';
+
+function Show()
+{
+var msg = 'Hello World';  //msg is a local variable
+document.writeln(msg);
+}
+
+document.writeln('</br>');
+
+//document.writeln(msg); //can't access msg outside of the function
+
+document.writeln('</br>');
+
+document.writeln(msg1);  //this works, because msg1  is a global variable
+
+</script>
+</body>
+
+</html>

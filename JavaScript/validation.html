@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JavaScript HTML Form Data Validation</title>
+</head>
+<body>
+<h3>This page contains JavaScript functionality to perform form data validation</h3>
+
+<form name="myForm">
+  Name: <input type="text" name="fname"></br>
+  DOB:  <input type="text" name="tdob" required></br>
+        <input type="submit" id="btnSubmit" value="Submit">
+</form>
+
+<script>
+document.getElementById("btnSubmit").onclick = 
+				function validateForm() 
+				{
+  				var x = document.forms["myForm"]["fname"].value;
+  				if (x == "") {
+    				alert("Name must be filled out");
+    				return false;
+  				}
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>JavaScript DOM Programming</title>
+</head>
+<body>
+<h3>This page contains some DOM Programming</h3>
+
+<p>The HTML DOM contains all the methods, events, and properties to completely manipulate the HTML document within it</p>
+
+<p>Hello World from the DOM</p>
+
+<p id="p1">This is a demo paragraph</p>
+
+<script>
+var x = document.getElementsByTagName("p");
+document.getElementById("p1").innerHTML = x[1].innerHTML;
+</script>
+
+</body>
+</html>
