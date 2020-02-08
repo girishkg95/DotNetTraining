@@ -1,0 +1,7 @@
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\bin\Debug\DataAccessConsoleApp.exe.config
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\bin\Debug\DataAccessConsoleApp.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\bin\Debug\DataAccessConsoleApp.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\obj\Debug\DataAccessConsoleApp.csproj.CoreCompileInputs.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\obj\Debug\DataAccessConsoleApp.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\obj\Debug\DataAccessConsoleApp.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessConsoleApp\obj\Debug\DataAccessConsoleApp.csprojAssemblyReference.cache

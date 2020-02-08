@@ -1,0 +1,12 @@
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\bin\Debug\DataAccessAppProg.exe.config
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\bin\Debug\DataAccessAppProg.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\bin\Debug\DataAccessAppProg.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.csprojAssemblyReference.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.Form1.resources
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.Properties.Resources.resources
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.csproj.GenerateResource.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.csproj.CoreCompileInputs.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.Form2.resources
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessAppProg\obj\Debug\DataAccessAppProg.Form3.resources

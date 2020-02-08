@@ -1,0 +1,12 @@
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\bin\Debug\DataAccessWithDataAdapter.exe.config
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\bin\Debug\DataAccessWithDataAdapter.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\bin\Debug\DataAccessWithDataAdapter.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.csprojAssemblyReference.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Form1.resources
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Properties.Resources.resources
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.csproj.GenerateResource.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.csproj.CoreCompileInputs.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Form2.resources
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\DataAccessAppProg\DataAccessWithDataAdapter\obj\Debug\DataAccessWithDataAdapter.Form3.resources
