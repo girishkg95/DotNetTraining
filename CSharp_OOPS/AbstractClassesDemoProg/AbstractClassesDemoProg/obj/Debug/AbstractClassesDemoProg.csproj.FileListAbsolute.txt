@@ -1,0 +1,7 @@
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\bin\Debug\AbstractClassesDemoProg.exe.config
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\bin\Debug\AbstractClassesDemoProg.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\bin\Debug\AbstractClassesDemoProg.pdb
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\obj\Debug\AbstractClassesDemoProg.csprojAssemblyReference.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\obj\Debug\AbstractClassesDemoProg.csproj.CoreCompileInputs.cache
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\obj\Debug\AbstractClassesDemoProg.exe
+D:\ShreeGuru ShiradiSaiBaba\Software Training\Technology Programs\Cognizant Chennai\Batch30.12.2019\CSharp\AbstractClassesDemoProg\AbstractClassesDemoProg\obj\Debug\AbstractClassesDemoProg.pdb
